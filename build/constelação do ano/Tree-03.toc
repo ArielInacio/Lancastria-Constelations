@@ -1,0 +1,41 @@
+('d:\\projects\\lancastria '
+ 'constelations\\const\\lib\\site-packages\\pillow-9.0.0-py3.9-win-amd64.egg',
+ None,
+ {'*.pyw', '*.pyd', '*.pyc', 'EGG-INFO', '*.cp39-win_amd64.pyd', '*.py'},
+ 'DATA',
+ [('PIL\\concrt140.dll',
+   'd:\\projects\\lancastria '
+   'constelations\\const\\lib\\site-packages\\pillow-9.0.0-py3.9-win-amd64.egg\\PIL\\concrt140.dll',
+   'DATA'),
+  ('PIL\\msvcp140.dll',
+   'd:\\projects\\lancastria '
+   'constelations\\const\\lib\\site-packages\\pillow-9.0.0-py3.9-win-amd64.egg\\PIL\\msvcp140.dll',
+   'DATA'),
+  ('PIL\\msvcp140_1.dll',
+   'd:\\projects\\lancastria '
+   'constelations\\const\\lib\\site-packages\\pillow-9.0.0-py3.9-win-amd64.egg\\PIL\\msvcp140_1.dll',
+   'DATA'),
+  ('PIL\\msvcp140_2.dll',
+   'd:\\projects\\lancastria '
+   'constelations\\const\\lib\\site-packages\\pillow-9.0.0-py3.9-win-amd64.egg\\PIL\\msvcp140_2.dll',
+   'DATA'),
+  ('PIL\\msvcp140_atomic_wait.dll',
+   'd:\\projects\\lancastria '
+   'constelations\\const\\lib\\site-packages\\pillow-9.0.0-py3.9-win-amd64.egg\\PIL\\msvcp140_atomic_wait.dll',
+   'DATA'),
+  ('PIL\\msvcp140_codecvt_ids.dll',
+   'd:\\projects\\lancastria '
+   'constelations\\const\\lib\\site-packages\\pillow-9.0.0-py3.9-win-amd64.egg\\PIL\\msvcp140_codecvt_ids.dll',
+   'DATA'),
+  ('PIL\\vccorlib140.dll',
+   'd:\\projects\\lancastria '
+   'constelations\\const\\lib\\site-packages\\pillow-9.0.0-py3.9-win-amd64.egg\\PIL\\vccorlib140.dll',
+   'DATA'),
+  ('PIL\\vcruntime140.dll',
+   'd:\\projects\\lancastria '
+   'constelations\\const\\lib\\site-packages\\pillow-9.0.0-py3.9-win-amd64.egg\\PIL\\vcruntime140.dll',
+   'DATA'),
+  ('PIL\\vcruntime140_1.dll',
+   'd:\\projects\\lancastria '
+   'constelations\\const\\lib\\site-packages\\pillow-9.0.0-py3.9-win-amd64.egg\\PIL\\vcruntime140_1.dll',
+   'DATA')])
